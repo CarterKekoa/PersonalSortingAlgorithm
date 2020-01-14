@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cmooring/cpsc223/project/project.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+chrono
+-
+cassert
+-
+sort.cpp
+/home/cmooring/cpsc223/project/sort.cpp
+
+/home/cmooring/cpsc223/project/sort.cpp
+
